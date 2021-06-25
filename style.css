@@ -1,0 +1,19 @@
+header {
+  background-image: url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
+  height: 400px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Abril Fatface";
+  color: grey;
+}
+
+blockquote {
+  font-family: "Abril Fatface";
+  color: grey;
+}
+
+p {
+  font-family: "Josefin Sans", sans-serif;
+  color: grey;
+}
